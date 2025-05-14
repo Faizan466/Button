@@ -1,0 +1,44 @@
+.first{
+    color: rgb(47, 78, 255);
+    font-weight: bolder;
+}
+.first:hover{
+    color: rgb(194, 157, 157);
+
+}
+.handing{
+    color: black;
+}
+.fp{
+    color: rgb(64, 212, 64);
+    font-size: 20px;
+    font-weight: bolder;
+}
+.sp{
+    font-weight: bold;
+}
+
+.add{
+    background-color: rgb(255, 255, 0);
+    height: 45px;
+    width:150px ;
+    border: none;
+    border-radius: 32px;
+
+    
+}
+.add:hover{
+    cursor: pointer;
+    opacity: 0.76;
+}
+.buy{
+    background-color: rgb(247, 131, 54);
+    height: 45px;
+    width: 150px;
+    border: none;
+    border-radius: 35px;
+}
+.buy:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
