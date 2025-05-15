@@ -145,5 +145,5 @@
 button{
     cursor: pointer;
       transition: box-shadow 0.15s;
-      border: solid;
+      border: solids;
 }
