@@ -1,0 +1,189 @@
+.tahoma{
+    font-family: Tahoma;
+    color: #000000;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.arial{
+    font-family: Arial;
+    font-size: 45px;
+    font-weight: bolder;
+    width: 550px;
+    line-height: 39px;
+}
+.red{
+    font-size: 22px;
+    color: rgb(243, 24, 24);
+    font-style: italic;
+    
+
+}
+.verdana-1{
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #000000;
+    margin-bottom: 0px;
+    
+}
+.verdana-2{
+    font-family: verdana;
+    margin-top: 5px;
+}
+.verdana-3{
+    color: #000000;
+    font-size: 18px;
+    font-family: verdana;
+    font-weight: 600px;
+    width: 380px;
+    
+}
+.start{
+    background-color: rgb(57, 187, 57);
+    color:rgb(255, 255, 255);
+    padding: 16px 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.start:hover{
+    opacity: 0.75;
+}
+.start:active{
+    opacity: 0.5;
+}
+.arial-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35PX;
+    font-weight: boldeR;
+    text-align: center;
+}
+.arial-3{
+    font-family: arial;
+    font-size: 18px;
+    text-align: center;
+}
+.link{
+text-align: center;
+cursor: pointer;
+}
+.new{
+    color: rgb(253, 68, 68);
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.mac{
+    text-align: center;
+     font-family: Arial;
+     color: rgb(0, 0, 0);
+     font-weight: 600px;
+     font-size: 20px;
+     margin-top: 8px;
+     margin-bottom: 0px;
+}
+.super{
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 2px;
+    margin-bottom: 0;
+
+}
+.from{
+    text-align: center;
+    font-size: 18px;
+    margin:9px;
+}
+.button{
+    text-align: center;
+    
+}
+.buy{
+    color: aliceblue;
+    background-color: rgb(0, 0, 255);
+    padding: 8px 22px;
+    border: none;
+    border-radius: 14px;
+    font-weight: bolder;
+    opacity: 0.75;
+    cursor:pointer;
+    transition-duration: 500ms;
+    
+
+}
+.buy:hover{
+    opacity: 0.5;
+    
+}
+.buy:active{
+    opacity: 0.4;
+}
+
+.usd{
+    text-align: center;
+    font-size: 32px;
+    font-family: Arial;
+    margin-bottom: 0;
+}
+.us{
+    color: rgb(136, 134, 134);
+    margin-left: 8px;
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+.today{
+    text-align: center;
+    margin-top: 6px;
+    color: rgb(52, 179, 52);
+    font-size: 20px;
+}
+.after{
+    text-align: center;
+    font-family: arial;
+}
+.after-1{
+    font-size: 22px;
+     
+    margin-right: 8px;
+    
+}
+.after-2{
+    color: rgb(243, 31, 31);
+}
+.free{
+     text-align: center;
+     font-family: Arial;
+}
+.free-1{
+    font-size: 22px;
+    font-weight: bolder;
+    margin-right: 8px;
+}
+.free-2{
+    font-size: 20px;
+    margin-right: 2px;
+}
+.as{
+    font-family: arial;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.89);
+    font-weight: bold;
+    width: 600px;
+    text-align: center;
+    line-height: 28px;
+}
+.here{
+    text-align: center;
+    font-family: arial;
+    color: black;
+}
+.here-1{
+    cursor: pointer;
+    color: rgb(32, 189, 189);
+    font-size: 18px;
+}
+    
