@@ -1,0 +1,119 @@
+.back {
+    padding: 12px 19px;
+
+}
+
+.one {
+    padding: 12px 19px;
+    color: blueviolet;
+    text-decoration: underline;
+    border: none;
+    font-size: 19px;
+    background-color: white;
+}
+
+.two {
+    padding: 12px 19px;
+    color: blueviolet;
+    text-decoration: underline;
+    border: none;
+    font-size: 19px;
+    background-color: white;
+}
+
+.three {
+    padding: 12px 19px;
+    color: blueviolet;
+    text-decoration: underline;
+    border: none;
+    font-size: 19px;
+    background-color: white;
+}
+
+.four {
+    padding: 10px 12px;
+    color: blueviolet;
+    text-decoration: underline;
+    border: none;
+    font-size: 19px;
+    background-color: white;
+}
+
+.next {
+    padding: 12px 19px;
+}
+
+.stretch {
+    background-color: rgb(93, 219, 93);
+    border: none;
+    padding: 19px 30px;
+    border-radius: 22px;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: arial;
+    font-weight: bold;
+
+ /* transition: padding-top 1s,
+      padding-bottom 1s,
+      padding-left 1s,
+      padding-right 1s; */
+    cursor: pointer;
+    transition: padding-top 3s,
+    padding-bottom 1s,
+    padding-left 1s,
+    paddinf-right 1s;
+}
+
+.stretch:hover {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+.shadow{
+    padding: 19px 30px;
+    cursor: pointer;
+     background-color: rgb(93, 219, 93);
+     transition-duration: 200ms;
+     transition-delay: 300ms;
+    
+}
+.shadow:hover{
+    margin: 10px 10px;
+}
+.on{
+     padding: 19px 30px;
+    cursor: pointer;
+     background-color: rgb(93, 219, 93);
+     transition-duration: 200ms;
+     transition-delay: 300ms;
+     margin: 122px 0 0 0;
+     margin-right: 30px;
+    
+}
+.tw{
+     padding: 19px 30px;
+    cursor: pointer;
+     background-color: rgb(93, 219, 93);
+     transition-duration: 200ms;
+     transition-delay: 300ms;
+     margin: 122px 0 0 0;
+     margin-right: 30px;
+}
+.thre{
+     padding: 19px 30px;
+    cursor: pointer;
+     background-color: rgb(93, 219, 93);
+     transition-duration: 200ms;
+     transition-delay: 300ms;
+      margin: 122px 0 0 0;
+     margin-right: 30px;
+    
+}
+.no:hover{
+    cursor: pointer;
+    padding-right: 50px;
+}
+.but{
+    cursor: pointer;
+}
